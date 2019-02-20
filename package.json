@@ -7,7 +7,7 @@
   "author": "Townsquared",
   "repository": "https://github.com/townsquared/my-business.git",
   "main": "./TSQDSegment.js",
-  "dependencies": {
+  "peerDependencies": {
     "react-native": "*"
   }
 }
