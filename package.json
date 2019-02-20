@@ -1,6 +1,6 @@
 {
   "name": "react-native-tsqd-segment",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "keywords": "react-native,segment,analytics",
   "description": "React Native Segment Integration",
   "license": "Copyright Townsquared, Inc.",
