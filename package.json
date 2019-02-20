@@ -6,8 +6,5 @@
   "license": "Copyright Townsquared, Inc.",
   "author": "Townsquared",
   "repository": "https://github.com/townsquared/my-business.git",
-  "main": "./TSQDSegment.js",
-  "peerDependencies": {
-    "react-native": "*"
-  }
+  "main": "./TSQDSegment.js"
 }
